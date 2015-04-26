@@ -81,7 +81,7 @@
   },
   "browserify": {
     "transform": [
-      "browserify",
+      "babelify",
       "browserify-shim"
     ]
   },
